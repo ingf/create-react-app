@@ -1,6 +1,12 @@
 # react-scripts
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
+Create App
+
+```
+npx create-react-app pwa --scripts-version pwa-react-scripts
+```
+
 Please refer to its documentation:
 
 - [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
